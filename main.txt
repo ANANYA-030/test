@@ -2,5 +2,5 @@ Line 1
 modified line 2 by contributor 1
 added new line by contributor 1
 Line 3
-Line 4
+modified by contributor 2
 Line 5
